@@ -1,0 +1,4 @@
+name: JoinMessage
+version: '${project.version}'
+main: de.taitopvp.joinmessage.Main
+api-version: 1.17
